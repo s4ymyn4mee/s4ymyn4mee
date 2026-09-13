@@ -3,14 +3,16 @@
 
 <h3 align="center">QA Automation Engineer • Python & Node.js 🧪</h3>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/s4ymyn4mee" target="_blank">Vadim</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-<h3 align="center">QA Automation Engineer (SDET) • Python & Node.js 🧪</h3>
-
 <div align="center">
     <img src="https://matmech.ru/logo.png" height="36" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 6px;" />
   <b>5-th year Computer Security Student @ МатМех УрФУ</b>
+</div>
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
+  <a href="https://matmech.ru/" target="_blank">
+    <img src="https://matmech.ru/logo.png" height="32" alt="MathMeh UrFU" />
+  </a>
+  <span><b>5th-year Computer Security Student @ МатМех УрФУ</b></span>
 </div>
 
 <p align="center">
