@@ -8,18 +8,10 @@
 
 <h3 align="center">QA Automation Engineer (SDET) • Python & Node.js 🧪</h3>
 
-<p align="center">
-    <img src="https://matmech.ru/logo.png" height="40" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 8px;" />
+<div align="center">
+    <img src="https://matmech.ru/logo.png" height="36" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 6px;" />
   <b>5-th year Computer Security Student @ МатМех УрФУ</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Production+is+my+staging+environment;Automating+end-to-end+API+testing;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=s4ymyn4mee&label=Profile%20Views&color=29C7C8&style=flat-square" alt="Views" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Breaking+code+before+users+do;Writing+reliable+backends+%26+breaking+APIs;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
