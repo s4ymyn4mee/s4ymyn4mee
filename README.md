@@ -9,9 +9,7 @@
 <h3 align="center">QA Automation Engineer (SDET) • Python & Node.js 🧪</h3>
 
 <p align="center">
-  <a href="https://math.urfu.ru/">
     <img src="https://matmech.ru/logo.png" height="40" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 8px;" />
-  </a>
   <b>5-th year Computer Security Student @ МатМех УрФУ</b>
 </p>
 
