@@ -3,6 +3,26 @@
 
 <h3 align="center">QA Automation Engineer • Python & Node.js 🧪</h3>
 
+<h1 align="center">Hi there, I'm <a href="https://github.com/s4ymyn4mee" target="_blank">Vadim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<h3 align="center">QA Automation Engineer (SDET) • Python & Node.js 🧪</h3>
+
+<p align="center">
+  <a href="https://math.urfu.ru/">
+    <img src="https://matmech.ru/logo.png" height="40" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 8px;" />
+  </a>
+  <b>5-th year Computer Security Student @ МатМех УрФУ</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Production+is+my+staging+environment;Automating+end-to-end+API+testing;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s4ymyn4mee&label=Profile%20Views&color=29C7C8&style=flat-square" alt="Views" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Breaking+code+before+users+do;Writing+reliable+backends+%26+breaking+APIs;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
 </p>
