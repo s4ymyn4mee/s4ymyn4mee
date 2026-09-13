@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/s4ymyn4mee" target="_blank">Vadim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h3 align="center">QA Automation Engineer (SDET) • Python & Node.js 🧪</h3>
+<h3 align="center">QA Automation Engineer • Python & Node.js 🧪</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=650&lines=Automating+robust+API+tests+with+Pytest+%26+Allure;Fullstack+QA+with+strong+CS+background;Docker+•+CI%2FCD+•+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Breaking+code+before+users+do;Writing+reliable+backends+%26+breaking+APIs;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 <p align="left">
   <b>Automation & Testing:</b><br>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/allure_report-29C7C8?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
   <img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/allure_report-29C7C8?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
 </p>
 
 <p align="left">
@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </p>
