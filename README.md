@@ -1,65 +1,59 @@
-# Привет, я Вадим 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=s4ymyn4mee&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
-
-Backend & QA Automation Engineer. Разрабатываю сервисы на Node.js / Express, выстраиваю инфраструктуру в Docker и проектирую надежные автотесты с CI/CD пайплайнами.
-
----
-
-### 🛠 Технологический стек
-
-#### Языки и Бэкенд
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
-
-#### Базы данных
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-#### Автоматизация тестирования и качество
-[![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](#)
-[![Allure Report](https://img.shields.io/badge/Allure%20Report-29C7C8?style=flat-square&logo=allure&logoColor=white)](#)
-[![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-
-#### DevOps и Окружение
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](#)
-
----
-
-### 🚀 Флагманский проект
-
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🍸 <a href="https://github.com/s4ymyn4mee/HeritageBar">HeritageBar</a></h3>
-      <p>Полноценный fullstack CRUD-сервис бара с серверным рендерингом, базой данных PostgreSQL и сессионным хранилищем.</p>
-      <ul>
-        <li><b>Автотесты:</b> 67 интеграционных тестов на Pytest (авторизация, безопасность, сессии, санитизация).</li>
-        <li><b>CI/CD:</b> Автоматическая сборка в Docker и генерация Allure-отчетов в GitHub Actions.</li>
-      </ul>
-      <p>
-        <a href="https://s4ymyn4mee.github.io/HeritageBar/">
-          <img src="https://img.shields.io/badge/Live%20Allure%20Report-View%20Dashboard-29C7C8?style=for-the-badge&logo=allure&logoColor=white" alt="Allure Report" />
-        </a>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=s4ymyn4mee&repo=HeritageBar&theme=tokyonight&show_owner=false" alt="Repo Pin" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Статистика профиля
+<h1 align="center">Hi there, I'm <a href="https://github.com/s4ymyn4mee" target="_blank">Vadim</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Backend & QA Automation Engineer 🧪</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4ymyn4mee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vadim GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ymyn4mee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Building+robust+backends;Automating+tests+with+Pytest+%26+Allure;Node.js+•+PostgreSQL+•+Docker+•+CI%2FCD" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/Allure_Report-29C7C8?style=for-the-badge&logo=allure&logoColor=white" alt="Allure" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+---
+
+<!-- Блок с трофеями GitHub -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=s4ymyn4mee&theme=onedark&no-frame=true&margin-w=10" alt="trophies" />
+  </a>
+</p>
+
+<!-- Карточки аналитики репозиториев -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s4ymyn4mee&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s4ymyn4mee&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4ymyn4mee&theme=github_dark" />
+</p>
+
+---
+
+<!-- Флагманский проект с живым Allure-дашбордом -->
+<h3 align="center">🍸 Featured Project: <a href="https://github.com/s4ymyn4mee/HeritageBar">HeritageBar</a></h3>
+
+<p align="center">
+  Fullstack CRUD-сервис на Node.js/PostgreSQL, покрытый сьютом из <b>67 автотестов</b> (Pytest/Requests) с автоматическим Allure CI/CD пайплайном.
+</p>
+
+<p align="center">
+  <a href="https://s4ymyn4mee.github.io/HeritageBar/">
+    <img src="https://img.shields.io/badge/Allure_Report-Live_Dashboard-29C7C8?style=for-the-badge&logo=allure&logoColor=white" alt="Allure Dashboard" />
+  </a>
+  <a href="https://github.com/s4ymyn4mee/HeritageBar">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+  </a>
 </p>
