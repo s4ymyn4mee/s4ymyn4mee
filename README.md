@@ -7,6 +7,7 @@
     <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="20" alt="Logo" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<b>5th-year Computer Security Student | МатМех УрФУ</b>
 </div>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Breaking+code+before+users+do;Writing+reliable+backends+%26+breaking+APIs;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
 </p>
