@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=700&lines=Breaking+code+before+users+do;Writing+reliable+backends+%26+breaking+APIs;Pytest+•+Allure+•+Docker+•+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=29C7C8&center=true&vCenter=true&width=750&lines=Breaking+code+before+users+do%3BAutomating+end-to-end+API+testing%3BPytest+%E2%80%A2+Allure+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
