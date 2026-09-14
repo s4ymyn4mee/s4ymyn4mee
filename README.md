@@ -8,8 +8,16 @@
   <b>5-th year Computer Security Student @ МатМех УрФУ</b>
 </div>
 
+<div align="center">
+
+| | |
+|:---:|---|
+| <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="32" alt="Logo" /></a> | **5th-year Computer Security Student @ МатМех УрФУ** |
+
+</div>
+
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-  <a href="https://matmech.ru/" target="_blank">
+  <a href="https://matmech.ru/">
     <img src="https://matmech.ru/logo.png" height="32" alt="MathMeh UrFU" />
   </a>
   <span><b>5th-year Computer Security Student @ МатМех УрФУ</b></span>
