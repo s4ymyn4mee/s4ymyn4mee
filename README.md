@@ -4,7 +4,7 @@
 <h3 align="center">QA Automation Engineer • Python & Node.js 🧪</h3>
 
 <div align="center">
-    <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="16" alt="Logo" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<b>5th-year Computer Security Student | МатМех УрФУ</b>
+    <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="22" alt="Logo" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<b>5th-year Computer Security Student | МатМех УрФУ</b>
 </div>
 
 <p align="center">
