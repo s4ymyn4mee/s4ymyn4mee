@@ -4,23 +4,7 @@
 <h3 align="center">QA Automation Engineer • Python & Node.js 🧪</h3>
 
 <div align="center">
-    <img src="https://matmech.ru/logo.png" height="36" alt="MathMech UrFU" style="vertical-align: middle; margin-right: 6px;" />
-  <b>5-th year Computer Security Student @ МатМех УрФУ</b>
-</div>
-
-<div align="center">
-
-| | |
-|:---:|---|
-| <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="32" alt="Logo" /></a> | **5th-year Computer Security Student @ МатМех УрФУ** |
-
-</div>
-
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-  <a href="https://matmech.ru/">
-    <img src="https://matmech.ru/logo.png" height="32" alt="MathMeh UrFU" />
-  </a>
-  <span><b>5th-year Computer Security Student @ МатМех УрФУ</b></span>
+    <a href="https://matmech.ru/"><img src="https://matmech.ru/logo.png" height="30" alt="Logo" style="vertical-align: middle;" /></a>&nbsp;&nbsp;<b>5th-year Computer Security Student | МатМех УрФУ</b>
 </div>
 
 <p align="center">
