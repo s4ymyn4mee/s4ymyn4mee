@@ -81,10 +81,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s4ymyn4mee&theme=github_dark" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s4ymyn4mee/s4ymyn4mee/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s4ymyn4mee/s4ymyn4mee/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/s4ymyn4mee/s4ymyn4mee/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
+![](https://user-images.githubusercontent.com/73172033/220138936-2fbd3879-6482-40d1-852d-7f3357f8686d.svg)
