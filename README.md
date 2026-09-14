@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+ 
 ### 🛠 Основной стек (Core Tech Stack)
 
 <p align="left">
