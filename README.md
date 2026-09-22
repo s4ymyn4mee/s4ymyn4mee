@@ -56,13 +56,13 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-### 🍸 Featured Project: <a href="https://github.com/s4ymyn4mee/HeritageBar">HeritageBar</a>
+### Featured Project: <a href="https://github.com/s4ymyn4mee/HeritageBar">HeritageBar</a>
 
 Полноценное серверное CRUD-приложение на Node.js / Express / PostgreSQL с изолированным окружением в Docker Compose и автоматизированным CI/CD пайплайном тестирования.
 
 * **Автотесты:** Сьют из **67 интеграционных тестов** на Pytest (auth, сессионный менеджмент, защита от SQLi и XSS-атак, санитизация данных).
 * **CI/CD:** Автоматический прогон сьюта в GitHub Actions и развертывание интерактивного отчета на GitHub Pages при каждом пуше.
-* 👉 **[Открыть живой дашборд Allure Report](https://s4ymyn4mee.github.io/HeritageBar/)**
+* **[Открыть живой дашборд Allure Report](https://s4ymyn4mee.github.io/HeritageBar/)**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s4ymyn4mee&theme=github_dark" />
